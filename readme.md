@@ -23,14 +23,10 @@ Example of sonic logging in borehole:
 
 How the algorithm identifies the FAT:
 
-<img src="algorithm.png"/>
+<img src="https://user-images.githubusercontent.com/38955297/191917441-91ae1404-8554-4deb-a096-dcc9610a81a0.png"/>
 
 The algorithm is in [jupyter notebook](FAT_algorithm-v2.ipynb)
 
 ## FAT for all the layer of a borehole and evaluation with manual interpretation: 
 
-<img src="evaluation2.png"/>
-
-For more information on this please contact [Gert Andersen](GA@ramboll.dk)
-
-
+<img src="https://user-images.githubusercontent.com/38955297/191917501-950026f0-f286-419f-9d7b-a77ac961dc2f.png"/>
